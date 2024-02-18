@@ -39,3 +39,5 @@ StealthLogger is a Python keylogger that runs in the background, recording keyst
 1. Run the script:
    ```bash
    python3 decrypter.py
+
+2. Follow the prompts to enter the file location and the decryption key.
