@@ -16,7 +16,7 @@ StealthLogger is a Python keylogger that runs in the background, recording keyst
 - Python 3. x
 - pynput library
 
-- ### Installation
+### Installation
 
 1. Clone the repository:
    ```bash
