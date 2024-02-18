@@ -30,6 +30,7 @@ def decrypt(ciphertext,shift):
 
 
 if __name__ == "__main__":
+    print("By Default, the Shift Value is 22\n")
     file_location = input("Enter the File Location: ")
     shift = shift_validation()
     with open(file_location,'r') as file:
