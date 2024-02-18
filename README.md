@@ -20,7 +20,7 @@ StealthLogger is a Python keylogger that runs in the background, recording keyst
 
 1. Clone the repository:
    ```bash
-   https://github.com/r-s-sacheth/StealthLogger.git
+   git clone https://github.com/r-s-sacheth/StealthLogger.git
 
 2. Install the requests library:
    ```bash
