@@ -8,7 +8,7 @@ prev_key = None
 # Caesar Cipher Encryption
 
 def encrypt(plaintext):
-    shift = 22
+    shift = 22            #Modify the Shift Value
     ciphertext = ""
     for char in plaintext:
             if char.isalpha():
